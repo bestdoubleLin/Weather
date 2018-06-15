@@ -37,8 +37,7 @@ namespace Weather
 
         public void initform(string str)
         {
-            //Console.WriteLine("1111111111111111111111111111");
-            if (str.Contains("雨"))
+             if (str.Contains("雨"))
                 this.BackgroundImage = Image.FromFile("F:/人机交互/PS/图/yu.jpg");
             else if (str.Contains("晴"))
                 this.BackgroundImage = Image.FromFile("F:/人机交互/PS/图/taiyang.jpg");
