@@ -1,0 +1,5 @@
+F:\C#\CCC\Weather\Domain\bin\Debug\Domain.dll
+F:\C#\CCC\Weather\Domain\bin\Debug\Domain.pdb
+F:\C#\CCC\Weather\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+F:\C#\CCC\Weather\Domain\obj\Debug\Domain.dll
+F:\C#\CCC\Weather\Domain\obj\Debug\Domain.pdb

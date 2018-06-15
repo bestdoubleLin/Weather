@@ -1,0 +1,5 @@
+F:\C#\CCC\Weather\WeatherDb\bin\Debug\WeatherDb.dll
+F:\C#\CCC\Weather\WeatherDb\bin\Debug\WeatherDb.pdb
+F:\C#\CCC\Weather\WeatherDb\obj\Debug\WeatherDb.csprojResolveAssemblyReference.cache
+F:\C#\CCC\Weather\WeatherDb\obj\Debug\WeatherDb.dll
+F:\C#\CCC\Weather\WeatherDb\obj\Debug\WeatherDb.pdb
